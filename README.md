@@ -17,5 +17,5 @@ python3 src/main.py
 ``` -->
 
 ```bash
-.venv/bin/python src/main.py
+{project_dir}/.venv/bin/python src/main.py
 ```
