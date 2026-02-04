@@ -1,6 +1,6 @@
-# Lines_game
+# Lines game
 
-Minimal starter for the Lines_game project.
+Minimal starter for the Lines game project.
 
 ## Setup
 
