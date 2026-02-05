@@ -24,8 +24,8 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-## Run
+## Runs
 
 ```bash
-{project_dir}/.venv/bin/python src/main.py
+.venv/bin/python src/main.py
 ```
